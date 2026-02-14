@@ -1,5 +1,4 @@
 <?php
-require "utils/filterParameters.php";
 require "objects/UserData.php";
 
 function createUserSchema($db){
