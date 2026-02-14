@@ -1,11 +1,11 @@
 # Blog
 Este es un proyecto que se hizo con el proposito para aprender PHP y PostgreSQL
 ## Correr el proyecto
-Para correr el programa se debe tener Linux e instalar PostgreSQL
-Decargar en la terminal los paquetes `sudo apt install composer && sudo apt install php-pgsql`
-Dentro de la carpeta del proyecto escribir en la terminal `composer require vlucas/phpdotenv`
-Escribe las credenciales de la base de datos en un .env 
-Corre el proyecto con `php -S localhost:8000`
+- Para correr el programa se debe tener Linux e instalar PostgreSQL
+- Decargar en la terminal los paquetes `sudo apt install composer && sudo apt install php-pgsql`
+- Dentro de la carpeta del proyecto escribir en la terminal `composer require vlucas/phpdotenv`
+- Escribe las credenciales de la base de datos en un .env 
+- Corre el proyecto con `php -S localhost:8000`
 
 ## Falta por implementar
 - posts.php 
