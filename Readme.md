@@ -8,9 +8,8 @@ Este es un proyecto que se hizo con el proposito para aprender PHP y PostgreSQL
 - Corre el proyecto con `php -S localhost:8000`
 
 ## Falta por implementar
+- Usar pg_prepare y pg_execute
 - posts.php 
-    - Crear posts asociados a un usuario
-    - Ver un post con su información
     - Filtrar posts por usuarios, categoría o tags
     - Actualizar un post
     - Eliminar un post
@@ -18,6 +17,6 @@ Este es un proyecto que se hizo con el proposito para aprender PHP y PostgreSQL
     - Ver comentarios asociados a un usuario
     - Hacer el CRUD con comentarios asociados a un usuario y un post
 - Crear las Vistas
+- Iniciar sesión como usuario y guardar datos en las Cookies
 - Paginación cuando se quiere ver todos los elementos de alguna ruta GET
 - Implementar Rate Limiting
-- Crear API KEYS
